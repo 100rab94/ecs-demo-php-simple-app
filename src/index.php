@@ -7,7 +7,11 @@
         <title>Simple PHP App</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+<<<<<<< HEAD
         <style>body {margin-top: 40px; background-color: #b03044;}</style>
+=======
+        <style>body {margin-top: 40px; background-color: #b03043;}</style>
+>>>>>>> 350d9043b1df849fbe515ba9ef394f48d496ab7e
         <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
